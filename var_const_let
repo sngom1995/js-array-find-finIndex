@@ -1,4 +1,5 @@
-
+let PI = 3.14;
+PI = 42; // stop me from doing this!
 - What is the difference between ***var*** and ***let***?
     
     You can reassign and redeclare with ***var***, but you can not redeclare using the ***let*** keyword. You can access a hoisted variable with var. Let creates block scope.
